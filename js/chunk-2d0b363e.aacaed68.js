@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b363e"],{"27be":function(t){t.exports=JSON.parse('{"state":"welcome","question_id":"1793","question_cost":1000,"total_pot":2000,"current_time":"start","finish_time":1591688518}')}}]);
+//# sourceMappingURL=chunk-2d0b363e.aacaed68.js.map
